@@ -630,12 +630,14 @@
         width: 20rem;
         font-size: 1.2rem;
     }
+    .frequent-ques li {
+        width: 20rem;
+    }
     .dropdown-content{
         position: relative;
         display: flex;
         flex-wrap: wrap;
         width: 20rem;
-        margin-left: 27.5rem;
     }
     .dropdown-content p{
         font-size:1.2rem;
